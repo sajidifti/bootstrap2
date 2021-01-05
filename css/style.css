@@ -1,0 +1,15 @@
+/* Second */
+.header, .hero, .body, .bar, .footer{
+    background-color: #7e0c7e;
+    font-size: 50px;
+    color: rgb(129, 124, 124);
+}
+.box{
+    min-height: 80px;
+    background-color: rgb(37, 204, 51);
+    margin-bottom: 5px;
+}
+
+.teal{
+    background-color: rgb(47, 27, 160);
+}
